@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">నా అనువర్తనం</string>
+    <string name="user">వాడుకరి పేరు</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="changeLang">భాష మార్చు</string>
+</resources>
