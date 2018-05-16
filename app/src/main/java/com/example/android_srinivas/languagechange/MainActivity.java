@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
                 showChangeLanguageDialog();
             }
         });
+        // Modified By Santosh
+        //data updated by srinivas
+        int x=10;
+        System.out.println("data in the x"+x);
     }
 
     private void showChangeLanguageDialog() {
